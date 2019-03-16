@@ -1,0 +1,19 @@
+{
+    "name": "Title & URL Picker",
+    "version": "1.0",
+
+    "icons": {"128": "icon128.png"},
+
+    "description": "Get Title And URL of a Page.",
+
+    "browser_action": {
+        "default_title": "Title & URL Picker",
+        "default_popup": "index.html"
+    },
+
+    "permissions": ["activeTab"],
+
+    "author": "Asa",
+
+    "manifest_version": 2
+}

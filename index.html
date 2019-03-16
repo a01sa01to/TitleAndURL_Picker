@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js"></script>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+        <script src="clipboard.min.js"></script>
+    </head>
+    <body>
+        <h1>Title & URL Picker</h1>
+        <button class="ttl">Get Title</button>
+        <button class="url">Get URL</button>
+        <button class="bmark">Get Both with Markdown</button>
+        <input type="text" readonly id="result">
+        <button class="copy" data-clipboard-target="#result" data-clipboard-action="copy"><i class="far fa-copy"></i></button>
+        <div class="msg">
+            <p class="copied">Copied!</p>
+            <p class="failed">failed...</p>
+        </div>
+        <p>This Extension is open source. <a href="https://github.com/a01sa01to/titleAndURL_Picker" target="_blank">Improve this Extension.</a></p>
+    </body>
+</html>
