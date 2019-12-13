@@ -1,5 +1,8 @@
 # Title & URL Picker
 
+[![MIT License](https://img.shields.io/github/license/a01sa01to/TitleAndURL_Picker?maxAge=3600, "MIT License")](https://github.com/a01sa01to/TitleAndURL_Picker/blob/master/LICENSE)
+[![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&message=%40a01sa01to&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=4273512934)
+
 ## Chrome Extension
 This Extension will show title and URL of a page by a few clicks and
 you can copy it by one Click.  
@@ -44,4 +47,5 @@ When you want to use this application, I'll glad if you tell about that via Twit
 
 ## Author
 [Asa (a.k.a Otsun)（@a01sa01to）](https://twitter.com/a01sa01to)  
-<a href="https://twitter.com/messages/compose?recipient_id=4273512934&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-size="large" data-screen-name="a01sa01to" data-show-count="false">Message @a01sa01to</a>
+
+[Send Message to Author](https://twitter.com/messages/compose?recipient_id=4273512934)
