@@ -44,6 +44,7 @@ you can copy it by one Click.
 2. Remove the folder you extracted.  
 
 ## Releases
+[![Release](https://img.shields.io/github/v/release/a01sa01to/TitleAndURL_Picker?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/TitleAndURL_Picker/releases)
 When you want to use this application, I'll glad if you tell about that via Twitter (See below) :)
 
 > Version 1.0 Released on 2019/03/16 (UST+09:00)
