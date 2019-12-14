@@ -1,10 +1,13 @@
 # Title & URL Picker
 
-[![MIT License](https://img.shields.io/github/license/a01sa01to/TitleAndURL_Picker?maxAge=3600, "MIT License")](https://github.com/a01sa01to/TitleAndURL_Picker/blob/master/LICENSE)
-[![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&message=%40a01sa01to&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=4273512934)
+[![Fork Repo](https://img.shields.io/github/forks/a01sa01to/TitleAndURL_Picker?style=social&maxAge=3600)](https://github.com/a01sa01to/TitleAndURL_Picker/fork)
+[![Downloads](https://img.shields.io/github/downloads/a01sa01to/TitleAndURL_Picker/total?maxAge=3600, "Download")](https://github.com/a01sa01to/TitleAndURL_Picker/releases)
+[![Issues](https://img.shields.io/github/issues/a01sa01to/TitleAndURL_Picker?maxAge=3600, "Issues")](https://github.com/a01sa01to/TitleAndURL_Picker/issues)
+[![MIT License](https://img.shields.io/github/license/a01sa01to/TitleAndURL_Picker?maxAge=3600, "License")](https://github.com/a01sa01to/TitleAndURL_Picker/blob/master/LICENSE)
+[![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&message=%40a01sa01to&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=4273512934)<br>
 
-## Chrome Extension
-This Extension will show title and URL of a page by a few clicks and
+## What's this?
+This is a Chrome Extension which show title and URL of a page by a few clicks and
 you can copy it by one Click.  
 
 ## Screenshots
@@ -46,6 +49,11 @@ When you want to use this application, I'll glad if you tell about that via Twit
 > Version 1.0 Released on 2019/03/16 (UST+09:00)
 
 ## Author
-[Asa (a.k.a Otsun)（@a01sa01to）](https://twitter.com/a01sa01to)  
-
+[![Follow @a01sa01to](https://img.shields.io/twitter/follow/a01sa01to?label=Follow&style=social&maxAge=3600, "Follow")](https://twitter.com/intent/follow?screen_name=a01sa01to)<br>
+[Asa (a.k.a Otsun)（@a01sa01to）](https://twitter.com/a01sa01to)<br>
 [Send Message to Author](https://twitter.com/messages/compose?recipient_id=4273512934)
+
+## License
+
+This repo is under the MIT License.<br>
+See [LICENSE](https://github.com/a01sa01to/TitleAndURL_Picker/blob/master/LICENSE) File.
