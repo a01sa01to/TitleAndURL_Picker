@@ -1,0 +1,4 @@
+version: "1"
+rules:
+  - base: master
+    upstream: a01sa01to:master
