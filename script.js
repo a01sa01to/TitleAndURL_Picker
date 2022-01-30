@@ -1,6 +1,10 @@
 let Data = {"Title": "", "URL": ""}
 
-chrome.tabs.getSelected(tab=>{
+chrome.tabs.query({
+    active: true,
+    currentWindow: true,
+},tabs=>{
+    const tab = tabs[0]
     Data.Title = tab.title;
     Data.URL = tab.url;
     console.log(`Title: ${Data.Title}`);
