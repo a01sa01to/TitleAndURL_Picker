@@ -1,7 +1,5 @@
 # Title & URL Picker
 
-[![Fork Repo](https://img.shields.io/github/forks/a01sa01to/TitleAndURL_Picker?style=social&maxAge=3600)](https://github.com/a01sa01to/TitleAndURL_Picker/fork) [![Downloads](https://img.shields.io/github/downloads/a01sa01to/TitleAndURL_Picker/total?maxAge=3600, "Download")](https://github.com/a01sa01to/TitleAndURL_Picker/releases) [![Issues](https://img.shields.io/github/issues/a01sa01to/TitleAndURL_Picker?maxAge=3600, "Issues")](https://github.com/a01sa01to/TitleAndURL_Picker/issues) [![MIT License](https://img.shields.io/github/license/a01sa01to/TitleAndURL_Picker?maxAge=3600, "License")](https://github.com/a01sa01to/TitleAndURL_Picker/blob/master/LICENSE) [![Send Message to Author](https://img.shields.io/static/v1?style=flat&logo=twitter&label=Message&color=1da1f2&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&link=https%3A%2F%2Ftwitter.com%2Fmessages%2Fcompose%3Frecipient_id%3D4273512934&message=%40a01sa01to&maxAge=3600, "Send Message to Author")](https://twitter.com/messages/compose?recipient_id=4273512934)<br>
-
 ## What's this?
 
 This is a Chrome Extension which show title and URL of a page by a few clicks and you can copy it by one Click.
@@ -31,29 +29,18 @@ This is a Chrome Extension which show title and URL of a page by a few clicks an
 
 ## How To Install This
 
-1. Download this repository and extract them into a folder.
-2. Go to <chrome://extensions>
-3. Turn `Developer mode` on.
-4. Click `Load unpacked`.
-5. Choose the folder which you extracted.
-6. After loading the folder, now you can use this extension!
+Download from [Chrome Webstore](https://chrome.google.com/webstore/detail/apegdmeimjlklboalimnaokfnnngajcg).
 
 ## How To Uninstall This
 
-1. On the page <chrome://extensions>, delete this extension.
-2. Remove the folder you extracted.
+On the page <chrome://extensions>, delete this extension.
 
 ## Releases
 
-[![Release](https://img.shields.io/github/v/release/a01sa01to/TitleAndURL_Picker?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/TitleAndURL_Picker/releases) When you want to use this application, I'll glad if you tell about that via Twitter (See below) :)
+[![Release](https://img.shields.io/github/v/release/a01sa01to/TitleAndURL_Picker?label=Latest%20release&maxAge=3600)](https://github.com/a01sa01to/TitleAndURL_Picker/releases)
 
+> Version 1.1 Released on 2022/01/30 (UST+09:00)
 > Version 1.0 Released on 2019/03/16 (UST+09:00)
-
-## Author
-
-[![Follow @a01sa01to](https://img.shields.io/twitter/follow/a01sa01to?label=Follow&style=social&maxAge=3600, "Follow")](https://twitter.com/intent/follow?screen_name=a01sa01to)<br>
-[Asa (a.k.a Otsun)（@a01sa01to）](https://twitter.com/a01sa01to)<br>
-[Send Message to Author](https://twitter.com/messages/compose?recipient_id=4273512934)
 
 ## License
 
